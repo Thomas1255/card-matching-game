@@ -3,7 +3,7 @@
 This repository contains a simple card matching game developed in C# using Windows Forms.
 ## Description 
 
-A straightforward implementation of a classic card matching game. The game likely involves a grid of cards that are flipped over, and the player tries to find matching pairs. The code appears to be a standard Windows Forms application, suggesting a graphical user interface (GUI) for gameplay.
+A straightforward implementation of a classic card matching game. The game involves a grid of cards that are flipped over, and the player tries to find matching pairs. Utilizes standard Windows Forms application to create a graphical user interface (GUI) for gameplay.
 
 ## Tech Stack 
 
