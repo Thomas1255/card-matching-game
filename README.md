@@ -4,11 +4,6 @@ This repository contains a simple card matching game developed in C# using Windo
 ## Description 
 An implementation of a card matching game that involves a grid of cards that are flipped over, and the player tries to find matching pairs.
 
-## Tech Stack 
-
-- **Language:** C#
-- **Framework:** Windows Forms
-
 ## Installation
 
 This project is a Windows Forms application. To run it, you will need:
