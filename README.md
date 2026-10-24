@@ -1,9 +1,8 @@
 # Card Matching Game 
-
 This repository contains a simple card matching game developed in C# using Windows Forms.
-## Description 
 
-A straightforward implementation of a classic card matching game. The game involves a grid of cards that are flipped over, and the player tries to find matching pairs. Utilizes standard Windows Forms application to create a graphical user interface (GUI) for gameplay.
+## Description 
+An implementation of a card matching game that involves a grid of cards that are flipped over, and the player tries to find matching pairs.
 
 ## Tech Stack 
 
@@ -14,7 +13,7 @@ A straightforward implementation of a classic card matching game. The game invol
 
 This project is a Windows Forms application. To run it, you will need:
 
-1.  **Visual Studio:** Install Visual Studio (Community Edition is free) from the [official Visual Studio website](https://visualstudio.microsoft.com/downloads/).
+1.  **Visual Studio:** Install Visual Studio from the [official Visual Studio website](https://visualstudio.microsoft.com/downloads/).
 2.  **.NET Framework:** Ensure you have the .NET Framework installed (usually comes with Visual Studio).
 
 **Steps:**
