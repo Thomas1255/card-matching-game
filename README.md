@@ -30,5 +30,3 @@ This project is a Windows Forms application. To run it, you will need:
 3.  Open the solution file `FinalLab.sln` in Visual Studio.
 4.  Build the project (Build > Build Solution).
 5.  Run the project (Debug > Start Debugging or press F5).
-
-*Note: The `App.config` file contains basic configuration, but no external dependencies were detected that require special installation steps beyond having Visual Studio and the .NET Framework.
