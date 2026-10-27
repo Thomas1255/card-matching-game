@@ -21,6 +21,6 @@ This project is a Windows Forms application. To run it, you will need:
     ```bash
     cd card-matching-game
     ```
-3.  Open the solution file `FinalLab.sln` in Visual Studio.
+3.  Open the solution file `card-matching.sln` in Visual Studio.
 4.  Build the project (Build > Build Solution).
 5.  Run the project (Debug > Start Debugging or press F5).

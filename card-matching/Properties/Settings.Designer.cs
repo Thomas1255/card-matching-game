@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace FinalLab.Properties
+namespace CardMatching.Properties
 {
 
 

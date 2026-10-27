@@ -1,4 +1,4 @@
-﻿namespace FinalLab
+﻿namespace CardMatching
 {
     partial class Form1
     {
